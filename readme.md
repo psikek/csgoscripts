@@ -14,3 +14,5 @@ Similarly to Windows, just do these commands
 git https://github.com/psikek/csgoscripts
 cd csgoscripts/. ~/.steam/steam/steamapps/common/Counter-Strike Global Offensive\csgo\cfg\
 ```
+## Usage
+In CS:GO, run `exec autoexec` to run the script.
