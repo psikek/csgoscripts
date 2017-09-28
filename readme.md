@@ -1,2 +1,2 @@
-# Counter-Strike Global Offensive scripts
+# Counter-Strike Global Offensive Scripts
 My personal CS:GO Scripts.
