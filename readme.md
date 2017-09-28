@@ -1,8 +1,7 @@
 # Counter-Strike Global Offensive Scripts
 My personal CS:GO Scripts.
-
-### Installation
-_Windows_
+## Installation
+###Windows
 Move to the contents of the directory to 
 
 `C:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
