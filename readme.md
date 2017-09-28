@@ -2,7 +2,7 @@
 My personal CS:GO Scripts.
 ## Installation
 ### Windows
-Download the repo as a zip, and extract it to
+Download the repo as a zip, and extract it to:
 
 `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
