@@ -12,7 +12,7 @@ Just run these commands and you should be good to go.
 
 ```
 git https://github.com/psikek/csgoscripts
-cp csgoscripts/. ~/.steam/steam/steamapps/common/Counter-Strike Global Offensive\csgo\
+cp csgoscripts/. ~/.steam/steam/steamapps/common/Counter-Strike Global Offensive/csgo/
 ```
 ## Usage
 In CS:GO, open the command line and run `exec autoexec` to run the script.
