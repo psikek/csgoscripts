@@ -6,7 +6,7 @@ Download the repo as a zip, and extract it to:
 
 `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo`
 
-*(this may be slightly different if you have CS:GO installed on a different drive)*
+*(this will be slightly different if you have CS installed on a different drive)*
 ### Linux
 Just run these commands and you should be good to go.
 
