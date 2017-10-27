@@ -4,15 +4,15 @@ My personal CS:GO Scripts.
 ### Windows
 Download the repo as a zip, and extract it to:
 
-`C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
+`C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo`
 
 *(this may be slightly different if you have CS:GO installed on a different drive)*
 ### Linux
-Similarly to Windows, just do these commands
+Just run these commands and you should be good to go.
 
 ```
 git https://github.com/psikek/csgoscripts
-cp csgoscripts/. ~/.steam/steam/steamapps/common/Counter-Strike Global Offensive\csgo\cfg\
+cp csgoscripts/. ~/.steam/steam/steamapps/common/Counter-Strike Global Offensive\csgo\
 ```
 ## Usage
 In CS:GO, open the command line and run `exec autoexec` to run the script.
