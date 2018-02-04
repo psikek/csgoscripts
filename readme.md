@@ -1,4 +1,4 @@
-# Counter-Strike Global Offensive Scripts
+# Counter-Strike: Global Offensive Scripts
 My personal CS:GO Scripts.
 ## Installation
 ### Windows
